@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html data-ng-app= "bookStubApp">
+<head>
+    <title>Books Collection - Order books Online</title>
+    <link rel="stylesheet" type="text/css" href="lib/bootstrap/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="lib/bootstrap/dist/css/bootstrap-theme.min.css">
+    <link rel="stylesheet" type="text/css" href="css/app.css">
+    <script type="text/javascript" src="lib/angular/angular.min.js"></script>
+    <script type="text/javascript" src="js/angular-resource.min.js"></script>
+    <script type="text/javascript" src="js/angular-route.min.js"></script>
+    <script type="text/javascript" src="lib/jquery/dist/jquery.min.js"></script>
+    <script type="text/javascript" src="lib/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="js/service/services.js"></script>
+    <script type="text/javascript" src="js/controller/app.js"></script>
+    <script type="text/javascript" src="js/router/router.js"></script>
+</head>
+<body class="container" data-ng-controller="bookStubController">
+    <div data-ng-include src="headerSrc"></div>
+    <hr/>
+    <div id="container">
+        <div data-ng-view=""></div>
+    </div>
+</body>
+</html>

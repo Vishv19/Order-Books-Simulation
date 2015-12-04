@@ -1,0 +1,74 @@
+[
+  {
+  "id": 0,
+  "name": "The Hunger Games",
+  "rating": 5,
+  "availability": 30,
+  "review": "For her first young-adult novel, Collins has mixed together elements both classical and modern to produce a story that, if not entirely new, nevertheless bears her unique imprint. Beginning with elements of the Theseus myth, she mixes in a large dollop of Battle Royale by Koushun Takami, elements of Shirley Jackson's The Lottery, current reality shows Survivor, American Gladiators, and Project Runway, and an extrapolation of current political and social trends. But she makes it her own, and the book avoids feeling derivative through her complex and poignant characterizations of both major and secondary characters, and the bewildering interplay of personal feelings and political machinations",
+  "thumb": "https://upload.wikimedia.org/wikipedia/en/a/ab/Hunger_games.jpg"
+  },
+  {
+  "id": 1,
+  "name": "To Kill a Mockingbird",
+  "rating": 5,
+  "availability": 25,
+  "review": "This richly textured novel, woven from the strands of small-town life, lets readers walk in the shoes of one fully realized character after another. Jem and Scout see the heart of their town laid bare -- divided not just between black and white, but also between the prevailing racism and 'the handful of people in this town who say that fair play is not marked White Only.' They get to know the 'Negroes in the Quarters,' too, where they are welcomed because their father is a hero, willing to stand up against an entire town on behalf of justice.They see the evil born of ignorance and squalor. And they see their father, under whose quiet righteousness and gentle civility lives an undemonstrative love that will always be there. With unmatched power of loving wisdom about the human heart, this book is one that no one should miss.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/en/7/79/To_Kill_a_Mockingbird.JPG"
+  },
+  {
+  "id": 2,
+  "name": "Pride and Prejudice",
+  "rating": 5,
+  "availability": 23,
+  "review": "Austen gives you brave and good heroes and heroines, despicable villains, a decent dose of comic relief, a great and complex plot, and plenty of suspense of the mostly restrained, emotional variety. Austen's clever observations and dialogue contribute to her brilliance in developing fully formed characters, despite the polite manners throughout. Elizabeth Bennet and Mr. Darcy are two of the most romantic and memorable characters in the whole of English literature, and their story never fails to entertain.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/PrideAndPrejudiceTitlePage.jpg/800px-PrideAndPrejudiceTitlePage.jpg"
+  },
+  {
+  "id": 3,
+  "name": "The Chronicles of Narnia",
+  "rating": 4,
+  "availability": 21,
+  "review": "Unlike the works of his friend and colleague Tolkien, C. S. Lewis' Chronicles of Narnia series does not stand up as well to the test of time. Written a half-century ago, this novel, occurring in an imaginary realm visited by children, is full of storyteller's asides and precious English children, and features an odd mix of childish adventure and bloody battles. His sometimes heavy-handed Christian allegory (Aslan sacrifices his life for the wayward Edmund and is resurrected) can also get overwhelming: One particularly disturbing scene has the two girls witnessing Aslan being trussed, sheared, and beaten by evil, gloating creatures, a nod to the indignity suffered by Christ before his crucifixion.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/en/a/ad/ScholasticNarnia.jpg"
+  },
+  {
+  "id": 4,
+  "name": "Gone with the Wind",
+  "rating": 5,
+  "availability": 18,
+  "review": " It’s difficult to encapsulate this book in a few sentences. It’s a story of peace and war, love and loss, hope and despair. More than that, it presents a chronological look at a time filled with uncertainty in America – the Civil War and Reconstruction – while also depicting the moral and psychological growth of its characters as they undergo dramatic changes to their way of life. Read this book first and foremost because it is a classic deserving of its awards and praise, but also check it out if you enjoy immersing yourself in other periods of history. Margaret Mitchell paints a vivid picture of life in the South, from belles and beaux to Yankees and Confederates and everything in between.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/en/6/6b/Gone_with_the_Wind_cover.jpg"
+  },
+  {
+  "id": 5,
+  "name": "The Book Thief",
+  "rating": 4,
+  "availability": 20,
+  "review": " 'The Book Thief' resembles other, better novels that have been widely popular. Its roundabout approach to the Holocaust suggests 'Everything Is Illuminated' Lite. Its embattled, feisty young heroine has a Potterish appeal as she makes her way through a mystifying adult world. There is a Vonnegut whimsy to the mordant turns of fate here. And Mr. Zusak's narrator offers constant manipulative asides, as in the clever Lemony Snicket books, although in this case wit is not much of an option. The narrator is Death.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/en/8/8f/The_Book_Thief_by_Markus_Zusak_book_cover.jpg"
+  },
+  {
+  "id": 6,
+  "name": "Twilight",
+  "rating": 3,
+  "availability": 6,
+  "review": " The main draw here is Bella's infatuation with outsider Edward, the sense of danger inherent in their love, and Edward's inner struggle—a perfect metaphor for the sexual tension that accompanies adolescence. These will be familiar to nearly every teen, and will keep readers madly flipping the pages of Meyer's tantalizing debut",
+  "thumb": "https://upload.wikimedia.org/wikipedia/en/1/1d/Twilightbook.jpg"
+  },
+  {
+  "id": 7,
+  "name": "The Fault in Our Stars",
+  "rating": 3,
+  "availability": 22,
+  "review": " John Green is possibly the most renowned author of Young Adult Fiction currently operating. His most well known book so far is probably this one, The Fault In Our Stars. The basis of the story is that a girl named Hazel who has cancer meets a boy named Augustus who she falls in love with. The two of them try to deal with cancer, love, and books. It's your average boy meets girl, girl has cancer, boy and girl talk about how a fictional book ends book. The whole story is beautifully written and is just breathtaking. The metatextual elements with references to the fictional book which the two are both a fan of (An Imperial Affliction) have a very Third Policeman–esque vibe to it, which, as a great fan of The Third Policeman was very enjoyable. I thought the plot was wonderful, the characters were absolutely believable and you do completely fall in love with them. Hazel and Augustus are fantastically drawn and the voice of them both is very funny and very well done. It is not a sick lit novel, despite having many of the trappings associated with the genre, it is a story about two people in love, one of whom has cancer. It also has a certain philosophical bent in which it discusses the meaning of life and death.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/en/a/a9/The_Fault_in_Our_Stars.jpg"
+  },
+  {
+  "id": 8,
+  "name": "The Da Vinci Code",
+  "rating": 3,
+  "availability": 26,
+  "review": " The conspiracy thriller, it can be argued, is the purest kind of bestseller. The premise of such books is that there's no such thing as a random happening; meanwhile, though bestsellers aren't exactly conspiracies, most huge publishing successes can be traced back to a web of connected events, so that form and content collide to an unusual degree. ",
+  "thumb": "https://upload.wikimedia.org/wikipedia/en/6/6b/DaVinciCode.jpg"
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "name": "bookStub",
+  "version": "0.0.1",
+  "description": "Order books online",
+  "authors": [
+    "Vishv Brahmbhatt"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/lib",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "angular": "~1.4.1",
+    "bootstrap": "~3.3.5"
+  }
+}

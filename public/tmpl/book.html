@@ -1,0 +1,16 @@
+<a ng-click="back()" class="btn btn-info pull-right" href="javascript:">Back</a>
+<a data-ng-href="#/bookTickets/{{currBook.id}}" class="btn btn-succes pull-left" role="button" data-ng-disabled="movie.availability == 0">Reserve</a>
+<br/>
+<div ng-show="currBook">
+    <h3>{{currBook.name}}</h3>
+    <div class="row">
+        <div class="col-md-4">
+            <img data-ng-src="{{currBook.thumb}}">
+        </div>
+        <div class="col-md-6">
+            <h4>Review</h4>
+            <span data-ng-repeat="i in getCount(currBook.rating) track by $index" class="glyphicon glyphicon-star"></span>
+            <label>{{currBook.review}}</label>
+        </div>
+    </div>
+</div>

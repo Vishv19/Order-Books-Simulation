@@ -1,0 +1,30 @@
+body {
+	padding-top: 50 px;
+	/*background-color:rgb(75, 137, 150);*/
+	/*background-color:#4B967E;*/
+	background-image:url("old-book-bg-image.jpg");
+}
+#container {
+	padding: 39px 0px;
+}
+.thumb-big {
+	height:199px;
+}
+.movie-list {
+	text-align: center;
+}
+.movies-list
+{
+    text-align: center;
+}
+.availability {
+	padding: 9px;
+	font-size: 12px;
+	font-weight: 500;
+	color: black
+}
+.bookThumb {
+	height: 149 px;
+	padding-right: 2px;
+}
+.navbar-inverse {background-image:linear-gradient(to bottom, #3C3C3C 0px, #3984AD 100%)}
